@@ -19,6 +19,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <p align="center">
   <img alt="rocketpay" src=".github/storybook.png" width="100%">
+
+</p>
+
+<p align="center">
+  <img alt="rocketpay" src=".github/figmaDS.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
